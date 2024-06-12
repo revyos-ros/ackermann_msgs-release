@@ -1,3 +1,26 @@
+## ackermann_msgs (jazzy) - 2.0.2-7
+
+The packages in the `ackermann_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ackermann_msgs --override-release-repository-push-url git@github.com:revyos-ros/ackermann_msgs-release.git` on `Wed, 12 Jun 2024 00:07:37 -0000`
+
+The `ackermann_msgs` package was released.
+
+Version of package(s) in repository `ackermann_msgs`:
+
+- upstream repository: https://github.com/ros-drivers/ackermann_msgs.git
+- release repository: https://github.com/revyos-ros/ackermann_msgs-release.git
+- rosdistro version: `2.0.2-6`
+- old version: `2.0.2-6`
+- new version: `2.0.2-7`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ackermann_msgs (galactic) - 2.0.2-1
 
 The packages in the `ackermann_msgs` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --rosdistro galactic --track galactic ackermann_msgs --edit` on `Wed, 21 Jul 2021 09:07:12 -0000`
